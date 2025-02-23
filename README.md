@@ -3,7 +3,7 @@
 **`Electrical Engineering with Emphasis on Computer Systems`**
 **`Full Stack Software Developer`**
 
-Performs Back-End development, Front-End development, CLOUD development, L3 Support Engineering, DevOps Engineering and/or AI engineer.
+Performs Back-End development, Front-End development, CLOUD development, L3 Support Engineering, DevOps Engineering and AI engineer.
 
 Designs, develops, tests and delivers offerings using leading edge and/or proven technologies.
 
