@@ -1,10 +1,13 @@
 # Carlos F Soares Junior
 
-**`Software Developer`**
+**`Electrical Engineering with Emphasis on Computer Systems`**
+**`Full Stack Software Developer`**
 
-Performs Back-End development, Front-End development, L3 Support Engineering and/or DevOps Engineering.
+Performs Back-End development, Front-End development, CLOUD development, L3 Support Engineering, DevOps Engineering and/or AI engineer.
 
 Designs, develops, tests and delivers offerings using leading edge and/or proven technologies.
+
+IBM Certified Professional Developer - Cloud v6
 
 ---
 
@@ -24,7 +27,7 @@ Designs, develops, tests and delivers offerings using leading edge and/or proven
     title="Langchain"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langchain.png" 
+    src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langchain.png" 
 />
 <img 
     align="left" 
