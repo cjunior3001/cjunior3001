@@ -13,134 +13,207 @@ IBM Certified Professional Developer - Cloud v6
 
 ### Technologies
 
+
+<p>
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="36px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" 
 />
-<img 
-    align="left" 
-    alt="Fastapi" 
-    title="Fastapi"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="vitejs" 
-    title="vitejs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML5"
-    title="HTML5" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="36px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="36px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="linux" 
-    title="linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="oracle" 
-    title="oracle"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="sqldeveloper" 
-    title="sqldeveloper"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="postgresql" 
-    title="postgresql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="npm" 
-    title="npm"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" 
 />
 
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="HTML5" 
+    title="HTML5"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="NextJs" 
+    title="NextJs"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Sass" 
+    title="Sass"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="TailwindCSS" 
+    title="TailwindCSS"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Vite" 
+    title="Vite"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Fast API" 
+    title="Fast API"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" 
+/>
+</p>
+<br>
+<p>  </p>
+<p> </p>
+<p>
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MetaMask" 
+    title="MetaMask"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Cloud" 
+    title="Cloud"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" 
+/>	
+</p>
