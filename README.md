@@ -124,8 +124,7 @@ IBM Certified Professional Developer - Cloud v6
 />
 </p>
 <br>
-<p>  </p>
-<p> </p>
+<p> &nbsp </p>
 <p>
 <img 
     align="left" 
