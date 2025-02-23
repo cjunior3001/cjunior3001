@@ -5,7 +5,7 @@
 
 Performs Back-End development, Front-End development, CLOUD development, L3 Support Engineering, DevOps Engineering and AI engineer.
 
-Designs, develops, tests and delivers offerings using leading edge and/or proven technologies.
+Designs, develops, tests and delivers offerings using leading edge and proven technologies.
 
 IBM Certified Professional Developer - Cloud v6
 
