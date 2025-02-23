@@ -122,7 +122,11 @@ IBM Certified Professional Developer - Cloud v6
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" 
 />
-
+</p>
+<br>
+<p>  </p>
+<p> </p>
+<p>
 <img 
     align="left" 
     alt="Oracle" 
@@ -158,11 +162,7 @@ IBM Certified Professional Developer - Cloud v6
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" 
 />
-</p>
-<br>
-<p>  </p>
-<p> </p>
-<p>
+
 <img 
     align="left" 
     alt="Flask" 
