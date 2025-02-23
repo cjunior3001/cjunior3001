@@ -23,14 +23,6 @@ IBM Certified Professional Developer - Cloud v6
 />
 <img 
     align="left" 
-    alt="Langchain" 
-    title="Langchain"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langchain.png" 
-/>
-<img 
-    align="left" 
     alt="Fastapi" 
     title="Fastapi"
     width="30px" 
@@ -108,14 +100,6 @@ IBM Certified Professional Developer - Cloud v6
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="github" 
-    title="github"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/github.png"
 />
 <img 
     align="left" 
