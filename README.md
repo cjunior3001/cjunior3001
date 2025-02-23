@@ -127,7 +127,7 @@ IBM Certified Professional Developer - Cloud v6
     align="left" 
     alt="Oracle" 
     title="Oracle"
-    width="36px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" 
 />
@@ -192,6 +192,15 @@ IBM Certified Professional Developer - Cloud v6
 
 <img 
     align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Flutter" 
     title="Flutter"
     width="36px" 
@@ -215,5 +224,14 @@ IBM Certified Professional Developer - Cloud v6
     width="36px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" 
-/>	
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git.svg" 
+/>
 </p>
