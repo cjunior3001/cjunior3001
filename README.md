@@ -1,13 +1,50 @@
 # Carlos F Soares Junior
 
+**`IBM Software Developer Certified | Software & AI Engineering | Full Stack Software Developer | Python | LangChain | Next.js | Cloud | DevOps | Data & AI | Automation | Enterprise Integration`**
+
 **`Electrical Engineering with Emphasis on Computer Systems`**
-**`Full Stack Software Developer`**
 
-Performs Back-End development, Front-End development, CLOUD development, L3 Support Engineering, DevOps Engineering and AI engineer.
+Designs and develops AI-driven and automation-focused enterprise solutions, combining modern software engineering practices with cloud-native platforms.
 
-Designs, develops, tests and delivers offerings using leading edge and proven technologies.
+Works across the full development lifecycle — from architecture and design to implementation, testing, and production support (L3) — delivering scalable and reliable systems in complex enterprise environments.
 
-IBM Certified Professional Developer - Cloud v6
+Builds AI-first solutions, workflow automation, and system integrations, enabling organizations to improve operational efficiency and accelerate digital transformation.
+
+Collaborates in Agile environments with cross-functional teams and stakeholders to translate business requirements into robust, production-ready software solutions.
+
+Applies modern engineering practices such as SDD (Specification-Driven Development) and TDD (Test-Driven Development) to ensure maintainability, reliability, and high code quality.
+
+Contributes to CI/CD pipelines and DevOps workflows, ensuring continuous delivery and quality across development stages.
+
+Also investigates and resolves customer-reported production issues, designing and implementing tested fixes while improving platform stability and observability.
+
+Key Technologies & Platforms
+
+- AI & AI Engineering: IBM watsonx, watsonx Orchestrate, IBM BOB, Antigravity, Gemini, Copilot
+- Workflow Automation: Adobe Workfront, Adobe Workfront Fusion, n8n
+- Digital Asset Management: Adobe DAM
+- Cloud & Platforms: Red Hat OpenShift, Red Hat Enterprise Linux (RHEL), IBM Cloud, Google Cloud, Azure, AWS
+- Design Systems & UI: IBM Carbon Design System, Shadcn/ui, Tailwind CSS
+- Data & Backend: DB2, Oracle, MySQL, MongoDB
+- AI/LLM Tooling: Docling, InstructLab
+- Web stack: React, Nextjs, Vite, Tanstack
+
+Certifications abd Badges
+
+- IBM Certified Professional Developer - Cloud v6
+- Developer Profession - Level 1 Foundation
+- IBM Certified Professional Developer - Cloud v6
+- Oracle Cloud Infrastructure Developer 2020 Certified Associate
+- Oracle Cloud Infrastructure Foundations 2020 Certified Associate
+- Developing Applications with Google Cloud
+- Developing APIs with Google Cloud's Apigee API Platform
+- Principles of IBM Cloud Professional Developer V2
+- Essentials of IBM Cloud Professional Developer V2
+- IBM Certified Technical Advocate - Cloud v5
+- Getting Started with OpenShift
+- Oracle Cloud Infrastructure 2019 Certified Architect Associate
+
+
 
 ---
 
